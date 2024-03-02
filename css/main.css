@@ -168,6 +168,9 @@ body {
 }
 @media screen and (min-width: 376px) and (max-width: 1140px) 
 {
+    body{
+        width: 100%;  
+      }
     .sakura1,
     .sakura2
     {
